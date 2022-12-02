@@ -1,4 +1,4 @@
-#Topics Covered
+# Topics Covered
 
-##1) Data filtering
-##2) Pagination
+## 1) Data filtering
+## 2) Pagination
